@@ -4,7 +4,7 @@
 <h2> Want to know more about me? 🙋</h2>
 <h4>🌱 I love reading, walking, having a good coffee with a friend, and watching bad movies with my brother.</h4>
 <h4>🌱 I’m currently working in my portfolio.</h4>
-<h4>🌱 I’m on <a href='https://www.linkedin.com/in/estefan%C3%ADa-m%C3%A1rquez-137b45175/' target='_blank'>LinkedIn</a> feel free to connect!.</h4>
+<h4>🌱 I’m on <a href='https://www.linkedin.com/in/estefan%C3%ADa-m%C3%A1rquez-137b45175/' target='_blank'>LinkedIn</a> feel free to connect!!</h4>
 <h4>🌱 I’m always open to new challenges that help me grow as a developer and as a person.</h4>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -48,8 +48,6 @@ The search bar lets you navigate between pokemons by name, and by clicking in on
       <img src="./Landing.PNG" width="333" height="225"  />
       <img src="./home.PNG" width="333" height="225"  />
       <img src="./cards.PNG" width="333" height="225"  />
-</div>
-<div align="row" >
       <img src="./form.PNG" width="333" height="225"  />
       <img src="./confirmationMsg.PNG" width="333" height="225"  />
       <img src="./Detail.PNG" width="333" height="225"  />
