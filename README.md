@@ -3,7 +3,7 @@
 </div>
 <h2> Want to know more about me? 🙋</h2>
 <h4>🌱 I love reading, walking, having a good coffee with a friend, and watching bad movies with my brother.</h4>
-<h4>🌱 I’m currently working in Agenddo.</h4>
+<h4>🌱 I’m currently working in <a href='https://agenddo.com/' target='_blank'>Agenddo</a>.</h4>
 <h4>🌱 I’m on <a href='https://www.linkedin.com/in/estefan%C3%ADa-m%C3%A1rquez-137b45175/' target='_blank'>LinkedIn</a> feel free to connect!!</h4>
 <h4>🌱 I’m always open to new challenges that help me grow as a developer and as a person.</h4>
 
