@@ -82,6 +82,6 @@ The search bar lets you navigate between pokemons by name, and by clicking in on
 
 ##  <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif'>My GitHub Activity 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarquezE92)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquezE92&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquezE92)](https://github.com/anuraghazra/github-readme-stats) 
