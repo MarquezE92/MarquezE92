@@ -40,7 +40,19 @@ This web app offers to single professionals, so as to consolidated establishment
 <div>✅ Have your clients hiring your services from the website, with online payments.</div>
 <div>✅ Load all the appointments you want, from your personal account, to keep the availability control updated with the appointments not arranged online.</div>
 <div>✅ Forget about reminding your clients of their appointments, with automated WhatsApp reminders when creating, modifying or canceling appointments.</div>
-
+<br>
+<div align="row" >
+      <img src="./VistaTurnosDesk.PNG" width="666" height="auto"/>
+      <img src="./TurnosMob.PNG" width="333" height="auto"  />
+      <img src="./AgregarSuc.PNG" width="666" height="auto"  />
+      <img src="./Métricas.PNG" width="333" height="auto"  />
+      <img src="./Extras.PNG" width="999" height="auto"  />
+      <img src="./Planes.PNG" width="666" height="auto"  />
+      <img src="./PacienteMob.PNG" width="333" height="auto"  />
+      <img src="./CapturaTienda.PNG" width="666" height="auto"  />
+      <img src="./TiendaMob.PNG" width="333" height="auto"  />
+      <img src="./CapturaAgendando.PNG" width="999" height="auto"  />
+</div>
 
 ### <a href='https://snor-inn.vercel.app/' target='_blank'>Snor-Inn</a> 
 SnorInn is a Single Page Application (SPA) developed using agile software methodologies (SCRUM), with one-week-long sprints. This web app offers the possibility to connect all those who have a space or place intended to host tourists (be they: in houses, hotels, hostels, bed and breakfast...), and those tourists who want to find their best place to rest.
