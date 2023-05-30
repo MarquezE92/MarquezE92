@@ -42,15 +42,13 @@ This web app offers to single professionals, so as to consolidated establishment
 <div>✅ Forget about reminding your clients of their appointments, with automated WhatsApp reminders when creating, modifying or canceling appointments.</div>
 <br>
 <div align="row" >
-      <img src="./VistaTurnosDesk.PNG" width="666" height="auto"/>
-      <img src="./TurnosMob.PNG" width="333" height="auto"  />
-      <img src="./AgregarSuc.PNG" width="666" height="auto"  />
-      <img src="./Métricas.PNG" width="333" height="auto"  />
+      <img src="./VistaTurnosDesk.PNG" width="999" height="auto"/>
+      <img src="./AgregarSuc.PNG" width="999" height="auto"  />
+      <img src="./Métricas.PNG" width="999" height="auto"  />
       <img src="./Extras.PNG" width="999" height="auto"  />
       <img src="./Planes.PNG" width="666" height="auto"  />
       <img src="./PacienteMob.PNG" width="333" height="auto"  />
       <img src="./CapturaTienda.PNG" width="666" height="auto"  />
-      <img src="./TiendaMob.PNG" width="333" height="auto"  />
       <img src="./CapturaAgendando.PNG" width="999" height="auto"  />
 </div>
 
