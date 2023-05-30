@@ -45,10 +45,9 @@ This web app offers to single professionals, so as to consolidated establishment
       <img src="./VistaTurnosDesk.PNG" width="999" height="auto"/>
       <img src="./AgregarSuc.PNG" width="999" height="auto"  />
       <img src="./Métricas.PNG" width="999" height="auto"  />
-      <img src="./Extras.PNG" width="999" height="auto"  />
-      <img src="./Planes.PNG" width="666" height="auto"  />
-      <img src="./PacienteMob.PNG" width="250" height="auto"  />
-      <img src="./CapturaTienda.PNG" width="666" height="auto"  />
+      <img src="./Planes.PNG" width="660" height="auto"  />
+      <img src="./PacienteMob.PNG" width="230" height="auto"  />
+      <img src="./CapturaTienda.PNG" width="999" height="auto"  />
       <img src="./CapturaAgendando.PNG" width="999" height="auto"  />
 </div>
 
