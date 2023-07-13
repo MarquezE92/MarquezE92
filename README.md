@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./BannerGit.gif" alt="banner" />
+ 
 </div>
 <h2> Want to know more about me? 🙋</h2>
 <h4>🌱 I love reading, walking, having a good coffee with a friend, and watching bad movies with my brother.</h4>
